@@ -1,9 +1,9 @@
 ### Welcome
 
-I am a Ph.D. candidate in Economics at the University of Bonn.
+I am an Assistant Professor in Economics at the Goethe University Frankfurt.
 
-My research interests include macroeconomics, labor economics, and firm dynamics.
+My research interests include macroeconomics and numerical methods.
 
 Website: https://marekignaszak.github.io/
 
-Email: ignaszak(at)uni-bonn(dot)de
+Email: ignaszak(at)uni-frankfurt(dot)de

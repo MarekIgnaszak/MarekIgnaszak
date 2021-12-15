@@ -1,6 +1,6 @@
 ### Welcome
 
-I am an Assistant Professor in Economics at the Goethe University Frankfurt.
+I am an Assistant Professor of Economics at the Goethe University Frankfurt.
 
 My research interests include macroeconomics and numerical methods.
 

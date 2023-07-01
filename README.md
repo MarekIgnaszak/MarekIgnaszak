@@ -6,4 +6,4 @@ My research interests include macroeconomics and numerical methods.
 
 Website: https://marekignaszak.github.io/
 
-Email: ignaszak(at)uni-frankfurt(dot)de
+Email: ignaszak@uni-frankfurt.de
